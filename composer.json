@@ -11,6 +11,12 @@
         }
     ],
     "minimum-stability": "stable",
+    "repositories": [
+        {
+            "url": "https://github.com/theotheo/yii2-app-core",
+            "type": "git"
+        }
+    ],
     "require": {
         "yiisoft/yii2": "~2.0.9",
         "thienhungho/yii2-app-core": "*"
